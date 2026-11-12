@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" fill="none">
+  <rect width="400" height="300" rx="16" fill="#F1F5F9"/>
+  <rect x="130" y="68" width="140" height="164" rx="18" fill="#E2E8F0"/>
+  <rect x="148" y="88" width="104" height="64" rx="10" fill="#CBD5E1"/>
+  <circle cx="200" cy="186" r="22" fill="#94A3B8" fill-opacity="0.35"/>
+  <path d="M190 186H210M200 176V196" stroke="#64748B" stroke-width="3" stroke-linecap="round"/>
+  <text x="200" y="262" text-anchor="middle" fill="#64748B" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="600">
+    Product Image Unavailable
+  </text>
+</svg>
+
