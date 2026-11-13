@@ -35,7 +35,7 @@ bipolar/
 │   │   ├── exceptions.py         # Standard {error: {code, message}} error handlers
 │   │   └── main.py               # FastAPI application entrypoint
 │   ├── scripts/
-│   │   └── seed.py               # Idempotent seed script (demo users + 18 snacks)
+│   │   └── seed.py               # Idempotent seed script (demo users + 19 snacks)
 │   ├── tests/                    # Pytest suite (auth, CRUD, voting, activity, concurrency, WS)
 │   ├── .env.example
 │   ├── alembic.ini
@@ -112,7 +112,7 @@ pip install -r requirements.txt
 # Run Alembic database migrations
 alembic upgrade head
 
-# Seed demo users and 18 sample snacks
+# Seed demo users and 19 sample snacks
 python -m scripts.seed
 
 # Start the FastAPI server
